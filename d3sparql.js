@@ -601,7 +601,7 @@ d3sparql.piechart = function(json, config) {
   svg.selectAll("text").attr({
     "stroke": "none",
     "fill": "black",
-    "font-size": "20px",
+    "font-size": "10px",
     "font-family": "sans-serif",
   })
 }
